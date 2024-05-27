@@ -114,8 +114,8 @@ const Login = () => {
   const handleGuestLogin = () => {
     console.log("Guest login");
     // Implement guest login logic here
-    setUsername("user@user.com");
-    setPassword("user1234");
+    setUsername("two");
+    setPassword("two");
   };
 
   const handleSubmit = (e) => {

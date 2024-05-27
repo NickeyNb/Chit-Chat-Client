@@ -148,7 +148,7 @@ const Header = () => {
               className={`cursor-pointer ${themeMode === "dark" ? "text-white" : "text-black"} hover:text-yellow-500`}
             >
               <IoMdNotificationsOutline />
-              {notificationCount}
+              {/* {notificationCount} */}
             </i>
           </div>
           <div>
